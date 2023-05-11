@@ -1,7 +1,6 @@
 /*
 Author: William Huynh
 File Name: styles.css
-Date: 04/04/2023
 */
 
 /*CSS Reset*/
@@ -36,14 +35,14 @@ img {
 .mobile h1 {
   padding: 2%;
   text-align: center;
-  font-family: 'Emblema One', cursive;
+  font-family: 'Indie Flower', cursive;
   margin: 2% 0 0 3%;
 }
 
 .mobile h3 {
   padding: 2%;
   text-align: center;
-  font-family: 'Lora', serif;
+  font-family: 'Architects Daughter', cursive;
 }
 
 /*Style rules for navigation area in mobile viewport*/
@@ -78,7 +77,7 @@ nav {
 /*Style rules for main content*/
 main {
   padding: 2%;
-  font-family: 'Lora', serif;
+  font-family: 'Architects Daughter', cursive;
 }
 
 main p {
