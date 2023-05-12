@@ -74,6 +74,10 @@ img {
   background-color: #ddd;
 }
 
+.mobile-nav #nav-links {
+  display: none;
+}
+
 nav {
     background-color: #8153ffe1;
   }
