@@ -46,11 +46,6 @@ img {
 }
 
 /*Style rules for navigation area in mobile viewport*/
-
-.mobile-nav #nav-links  {
-  display: none;
-}
-
 .mobile-nav a {
   color: #0c0c0c;
   text-align: center;
