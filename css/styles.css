@@ -46,6 +46,11 @@ img {
 }
 
 /*Style rules for navigation area in mobile viewport*/
+
+.mobile-nav #nav-links  {
+  display: none;
+}
+
 .mobile-nav a {
   color: #0c0c0c;
   text-align: center;
@@ -68,6 +73,10 @@ img {
   height: 40px;
   width: 40px;
   color: #2a1f14;
+}
+
+.mobile-nav a:hover {
+  background-color: #ddd;
 }
 
 nav {
@@ -138,32 +147,20 @@ figcaption {
 }
 
 .tel-link {
-  background-color: #2a1f14;
+  background-color: #975fff;
   padding: 2%;
   width: 80%;
   margin: 0 auto;
 }
 
 .tel-link a {
-  color: #f6eee4;
+  color: #030303;
   font-weight: bold;
   text-decoration: none;
-
 }
 
 #questions p {
   cursor: pointer;
-}
-
-#answer {
-  text-align: center;
-  font-weight: bold;
-  width: 80%;
-  margin: 0 auto;
-}
-
-#answer h2 {
-  display: none;
 }
 
 /*Style rules for form elements*/
@@ -172,7 +169,7 @@ fieldset, input, textarea {
 }
 
 textarea {
-  float: auto;
+  float: center;
 }
 
 fieldset legend {
@@ -221,6 +218,8 @@ footer a {
   position: absolute;
   left: -999px;
 }
+
+
 
 /*Media Query for Tablet Viewport*/
 @media screen and (min-width: 620px), print {
