@@ -12,7 +12,7 @@ body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption {
 
 /*Style rules for body and images*/
 body {
-    background-color: #f6eee4;
+    background-color: #AEDFFF;
   }
 
 img {
@@ -359,7 +359,7 @@ footer a {
 
   .form-grid {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto auto auto;
     grid-gap: 20px;
   }
 
