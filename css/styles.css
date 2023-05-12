@@ -57,7 +57,7 @@ img {
   font-size: 2em;
   text-decoration: none;
   padding: 3%;             
-  display: none;
+  display: block;
 }
 
 .mobile-nav a.nav-icon {
@@ -121,13 +121,6 @@ main ul {
 
 .round {
   border-radius: 6px;
-}
-
-aside {
-  text-align: center;
-  font-size: 1.5em;
-  font-weight: bold;
-  text-shadow: 4px 4px 10px #c5a687;
 }
 
 figure {

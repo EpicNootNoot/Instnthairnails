@@ -9,11 +9,11 @@ function menu() {
   var menuicon = document.getElementById("icon");
   
   if(nav-links.style.display === "block") {
-    navlinks.style.display = "none";
+    navlinks.style.display = "block";
     menuicon.style.color = "#b094ffe1";
   } 
   else {
-    navlinks.style.display = "block";
+    navlinks.style.display = "none";
     menuicon.style.color = "#b094ffe1";
   }
 }
