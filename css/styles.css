@@ -12,7 +12,7 @@ body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption {
 
 header h1 {
   font-family: 'Indie Flower', cursive;
-  float: center;
+  text-align: center;
 }
 
 /*Style rules for body and images*/
