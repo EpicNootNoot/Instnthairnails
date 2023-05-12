@@ -1,12 +1,7 @@
 /*
 Student Name: William Huynh
 File Name: script.js
-Date: 04/19/2023
 */
-
-//Global variables
-var answer = document.querySelector("#answer p");
-var heading = document.querySelector("#answer h2");
 
 // Hamburger menu function
 function menu() {

@@ -52,7 +52,7 @@ img {
   font-size: 2em;
   text-decoration: none;
   padding: 3%;             
-  display: block;
+  display: none;
 }
 
 .mobile-nav a.nav-icon {
