@@ -10,6 +10,11 @@ body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption {
     border: 0;
   }
 
+header h1 {
+  font-family: 'Indie Flower', cursive;
+  float: center;
+}
+
 /*Style rules for body and images*/
 body {
     background-color: #AEDFFF;
