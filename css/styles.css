@@ -47,7 +47,7 @@ img {
 
 /*Style rules for navigation area in mobile viewport*/
 .mobile-nav a {
-  color: #fff;
+  color: #0c0c0c;
   text-align: center;
   font-size: 2em;
   text-decoration: none;
@@ -60,7 +60,7 @@ img {
   position: absolute;
   left: 0;
   top: 0;
-  color: #f6eee4;
+  color: #000000;
   padding: 2%;
 }
 
