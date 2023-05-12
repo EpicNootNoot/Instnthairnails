@@ -171,6 +171,10 @@ fieldset, input, textarea {
   margin-bottom: 2%;
 }
 
+textarea {
+  float: auto;
+}
+
 fieldset legend {
   font-weight: bold;
   font-size: 1.25em;
@@ -185,8 +189,8 @@ form #submit {
   margin: 0 auto;
   display: block;
   padding: 2%;
-  background-color: #AEDFFF;
-  color: #f6eee4;
+  background-color: #975fff;
+  color: #000000;
   font-size: 1.25em;
   border-radius: 10px;
 }
@@ -197,7 +201,7 @@ form #submit {
 footer {
   text-align: center;
   font-size: 0.85em;
-  background-color: #2a1f14;
+  background-color: #975fff;
   color: #f6eee4;
   padding: 1% 0%;
 }
