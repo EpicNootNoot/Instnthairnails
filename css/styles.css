@@ -248,12 +248,16 @@ footer a {
       font-weight: bold;
     }
     
-    nav li a {
-        padding: 0.5em;
-        display: block;
-        color:#000;
-        text-decoration: none;
-    }
+  nav li a {
+      padding: 0.5em;
+      display: block;
+      color:#000;
+      text-decoration: none;
+  }
+
+  nav li a:hover {
+    background-color: #6f57f1;
+  }
     
     .grid {
         display: grid;
@@ -261,9 +265,9 @@ footer a {
         grid-gap: 10px;
     }
     
-    aside {
-        grid-column: 1 / span 2;
-    }
+  aside {
+     grid-column: 1 / span 2;
+  }
 
   /*Tablet Viewport: Style rules for form element*/
   form {
@@ -277,7 +281,7 @@ footer a {
   }
 
   .copyright {
-    float: left;
+    float: center;
     width: 65%;
   }
 
