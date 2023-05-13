@@ -55,12 +55,11 @@ img {
 .mobile-nav {
   overflow: hidden;
   display: block;
-  height: 3px;
+  
 }
 
 .mobile-nav #nav-links {
   display: none;
-  margin: 1px auto;
 }
 
 .mobile-nav a {
