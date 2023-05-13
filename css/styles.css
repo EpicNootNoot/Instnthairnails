@@ -78,15 +78,16 @@ img {
   padding: 2%;
 }
 
-.nav-icon div {
+.mobile-nav a:hover {
+  background-color: #AEDFFF;
+}
+
+.nav-icon {
   height: 40px;
   width: 40px;
   color: #000000;
 }
 
-.mobile-nav a:hover {
-  background-color: #AEDFFF;
-}
 
 
 
