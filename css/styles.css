@@ -53,9 +53,8 @@ img {
 /*Style rules for navigation area in mobile viewport*/
 .mobile-nav {
   overflow: hidden;
-  display: block;
+  display: list-item;
   padding-top: 15%;
-  z-index: 10;
 }
 
 .mobile-nav #nav-links {
