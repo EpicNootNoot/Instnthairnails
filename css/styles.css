@@ -51,6 +51,15 @@ img {
 }
 
 /*Style rules for navigation area in mobile viewport*/
+.mobile-nav {
+  overflow: hidden;
+  position: relative;
+}
+
+.mobile-nav #nav-links {
+  display: none;
+}
+
 .mobile-nav a {
   color: #0c0c0c;
   text-align: center;
@@ -79,9 +88,7 @@ img {
   background-color: #5214e4;
 }
 
-/*.mobile-nav #nav-links {
-  display: block;
-}*/
+
 
 nav {
     background-color: #8153ffe1;
