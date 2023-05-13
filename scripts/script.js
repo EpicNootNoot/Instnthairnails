@@ -10,11 +10,10 @@ function menu() {
   
   if(navlinks.style.display === "block") {
     navlinks.style.display = "none";
-    menuicon.style.color = "#b094ffe1";
+    menuicon.style.color = "#b094ff";
   } 
   else {
     navlinks.style.display = "block";
-    menuicon.style.color = "#b094ffe1";
+    menuicon.style.color = "#b094ff";
   }
 }
-
