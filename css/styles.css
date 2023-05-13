@@ -54,6 +54,7 @@ img {
 .mobile-nav {
   overflow: hidden;
   position: relative;
+  display: block;
 }
 
 .mobile-nav #nav-links {
@@ -87,9 +88,6 @@ img {
   width: 40px;
   color: #000000;
 }
-
-
-
 
 nav {
     background-color: #8153ffe1;
