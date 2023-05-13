@@ -8,7 +8,7 @@ function menu() {
   var navlinks = document.getElementById("nav-links");
   var menuicon = document.getElementById("icon");
   
-  if(nav-links.style.display === "block") {
+  if(navlinks.style.display === "block") {
     navlinks.style.display = "none";
     menuicon.style.color = "#b094ffe1";
   } 
