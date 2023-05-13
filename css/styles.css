@@ -54,12 +54,15 @@ img {
 /*Style rules for navigation area in mobile viewport*/
 .mobile-nav {
   overflow: hidden;
-  display: block;
-  
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  padding: 0 24px;
 }
 
 .mobile-nav #nav-links {
   display: none;
+  gap: 60px;
 }
 
 .mobile-nav a {
