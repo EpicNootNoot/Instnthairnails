@@ -65,9 +65,9 @@ img {
 .mobile-nav a {
   color: #0c0c0c;
   text-align: left;
-  font-size: 1em;
+  font-size: 2em;
   text-decoration: none;
-  padding: 3%;             
+  padding: 1%;             
   display: block;
 }
 
