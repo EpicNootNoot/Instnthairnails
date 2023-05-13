@@ -55,7 +55,7 @@ img {
   overflow: hidden;
   position: relative;
   display: block;
-  padding-top: 2%;
+  padding-top: auto;
 }
 
 .mobile-nav #nav-links {
