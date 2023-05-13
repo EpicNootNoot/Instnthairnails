@@ -69,6 +69,7 @@ img {
   font-weight: bold;
   background-color: #5eb5fd;
   background-size: auto;
+  border-radius: 10px;
   position: fixed;
   left: 1%;
   top: 6%;
