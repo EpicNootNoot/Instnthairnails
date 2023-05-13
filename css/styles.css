@@ -46,6 +46,7 @@ img {
 }
 
 .mobile h2 {
+  padding-top: 5px;
   text-align: center;
   font-family: 'Architects Daughter', cursive;
 }
