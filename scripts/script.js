@@ -14,6 +14,6 @@ function menu() {
   } 
   else {
     navlinks.style.display = "block";
-    menuicon.style.color = "#b094ff";
+    menuicon.style.color = "#5eb5fd";
   }
 }
