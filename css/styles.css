@@ -67,6 +67,8 @@ img {
   font-size: small;
   font-family: 'Architects Daughter', cursive;
   font-weight: bold;
+  background-color: #5eb5fd;
+  opacity: 50%;
 }
 
 .mobile-nav a {
