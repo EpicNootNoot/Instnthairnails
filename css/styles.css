@@ -63,7 +63,7 @@ img {
 .mobile-nav #nav-links {
   display: none;
   gap: 50px;
-  padding: 3% 0% 0% 5%;
+  padding: 1% 0% 0% 5%;
   font-size: small;
   font-family: 'Architects Daughter', cursive;
   font-weight: bold;
