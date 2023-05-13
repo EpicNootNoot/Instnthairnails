@@ -42,11 +42,11 @@ img {
   text-align: center;
   font-family: 'Indie Flower', cursive;
   margin: auto;
-  background-color: #c4a4ff;
+  background-color: #bea2ff;
 }
 
 .mobile h2 {
-  padding-top: 0;
+  top: 2%;
   text-align: center;
   font-family: 'Architects Daughter', cursive;
 }
@@ -99,7 +99,7 @@ img {
 }
 
 nav {
-    background-color: #975fff;
+    background-color: #bea2ff;
   }
 
 /*Style rules for main content*/
@@ -159,7 +159,7 @@ figcaption {
 }
 
 .tel-link {
-  background-color: #975fff;
+  background-color: #bea2ff;
   padding: 2%;
   width: 80%;
   margin: 0 auto;
