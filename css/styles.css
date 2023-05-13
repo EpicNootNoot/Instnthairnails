@@ -74,7 +74,7 @@ img {
   display: block;
   position: absolute;
   left: 0;
-  top: -2;
+  top: 1;
   color: #000000;
   padding: 2%;
 }
