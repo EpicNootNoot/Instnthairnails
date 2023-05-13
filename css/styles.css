@@ -76,14 +76,14 @@ img {
   position: absolute;
   left: 0;
   top: 0;
-  color: #000000;
+  color: #000;
   padding: 2%;
 }
 
 .nav-icon {
   height: 35px;
   width: 35px;
-  color: #000000;
+  color: #000;
 }
 
 nav {

@@ -10,7 +10,7 @@ function menu() {
   
   if(navlinks.style.display === "block") {
     navlinks.style.display = "none";
-    menuicon.style.color = "#b094ff";
+    menuicon.style.color = "#000";
   } 
   else {
     navlinks.style.display = "block";
