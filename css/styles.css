@@ -63,7 +63,7 @@ img {
 .mobile-nav #nav-links {
   display: none;
   gap: 60px;
-  padding: 3% 0% 7% 0%;
+  padding: 3% 0% 0% 7%;
 }
 
 .mobile-nav a {
