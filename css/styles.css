@@ -53,7 +53,6 @@ img {
 /*Style rules for navigation area in mobile viewport*/
 .mobile-nav {
   overflow: hidden;
-  position: absolute;
   display: block;
   padding-top: 10%;
 }
