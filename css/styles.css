@@ -53,8 +53,9 @@ img {
 /*Style rules for navigation area in mobile viewport*/
 .mobile-nav {
   overflow: hidden;
-  /*position: relative;*/
+  position: relative;
   display: block;
+  padding-top: 2%;
 }
 
 .mobile-nav #nav-links {
@@ -77,10 +78,6 @@ img {
   top: 0;
   color: #000000;
   padding: 2%;
-}
-
-.mobile-nav a:hover {
-  background-color: #AEDFFF;
 }
 
 .nav-icon {
