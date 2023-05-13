@@ -70,8 +70,8 @@ img {
   background-color: #5eb5fd;
   opacity: 50%;
   position: fixed;
-  left: 5px;
-  top: 6px;
+  left: 0;
+  top: 20%;
 }
 
 .mobile-nav a {
