@@ -139,18 +139,6 @@ main ul {
   border-radius: 6px;
 }
 
-figure {
-  border: 4px solid #2a1f14;
-  box-shadow: 6px 6px 10px #c5a687;
-  max-width: 400px;
-  margin: 2% auto;
-}
-
-figcaption {
-  padding: 2%;
-  border-top: 4px solid #2a1f14;
-}
-
 #info ul {
   margin-left: 10%;
 }
@@ -170,10 +158,6 @@ figcaption {
   color: #030303;
   font-weight: bold;
   text-decoration: none;
-}
-
-#questions p {
-  cursor: pointer;
 }
 
 /*Style rules for form elements*/
@@ -200,7 +184,7 @@ form #submit {
   display: block;
   padding: 2%;
   background-color: #975fff;
-  color: #000000;
+  color: #000;
   font-size: 1.25em;
   border-radius: 10px;
 }
@@ -211,13 +195,13 @@ form #submit {
 footer {
   text-align: center;
   font-size: 0.85em;
-  background-color: #975fff;
-  color: #f6eee4;
+  background-color: #bea2ff;
+  color: #AEDFFF;
   padding: 1% 0%;
 }
 
 footer a {
-  color: #f3e6d8;
+  color: #AEDFFF;
   text-decoration: none;
 }
 
@@ -263,7 +247,7 @@ footer a {
     nav li a {
         padding: 0.5em;
         display: block;
-        color:#f6eee4;
+        color:#000;
         text-decoration: none;
     }
     
